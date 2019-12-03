@@ -7,4 +7,4 @@ spec:
     - name: container-aplicacao
       image: jnlucas/image-phpmysql:latest
       ports:
-      - containerPort: 80
+        - containerPort: 80
